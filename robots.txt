@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ntricate.github.io/ntricate.ntricate
+Sitemap: https://ntricate.github.io/app/ntricate.ntricate
+Sitemap: https://ntricate.github.io/assets/ntricate.ntricate
+Sitemap: https://ntricate.github.io/css/ntricate.ntricate
+Sitemap: https://ntricate.github.io/includes/ntricate.ntricate
+Sitemap: https://ntricate.github.io/item/ntricate.ntricate
+Sitemap: https://ntricate.github.io/src/ntricate.ntricate
